@@ -1,7 +1,3 @@
 # jirademo
 
-Test File
-
-Task 6
-
-SEC-3-Task3 
+MFSP-7-Seventh-Story
